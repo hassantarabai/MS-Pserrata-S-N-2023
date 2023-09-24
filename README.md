@@ -23,7 +23,7 @@ Run [msmc2](https://github.com/stschiff/msmc2) using two different settings to a
 
 ## **Comparative functional genomics**
 ### **PCoA.R**
-R script that utilize vegan library to calculate Bray-Curtis dissimilarity and perform principal coordinates analysis (PCoA) on the dissimilarity matrix of Pfam and InterProScan hits between compared genomes then vizualize it. 
+R script that utilizes vegan library to calculate Bray-Curtis dissimilarity and perform principal coordinates analysis (PCoA) on the dissimilarity matrix of Pfam and InterProScan hits between compared genomes then vizualize it. 
 
 
 
