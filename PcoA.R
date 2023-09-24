@@ -1,4 +1,4 @@
-##PcoA on Pfam and InterProScan results##
+###PcoA on Pfam and InterProScan results###
 
 library(vegan) #load library
 
