@@ -26,7 +26,7 @@ colors1 <- rainbow(length(rownames(pcoa1$points)))
 # Plot PCoA for PFAM data
 plot(pcoa1$points[,1], pcoa1$points[,2], 
      xlab="PCoA1", ylab="PCoA2", 
-     pch=16, cex=1.5, main="PFAM", 
+     pch=16, cex=1.5, main="Pfam", 
      col=colors1)
 
 # Add legend for PFAM data
