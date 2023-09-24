@@ -7,7 +7,7 @@ Used in obtaining sets of orthologs in fasta format corresponding to different a
 
 ## **Population demography**
 ### **bamcall_multi.sh**
-Utilizing [bamCaller.py](https://github.com/stschiff/msmc-tools) to iterate over a list of bam files and defined contigs and generate and output of single VCF and a mask file in bed format per sample/contig combination.
+Utilizing [bamCaller.py](https://github.com/stschiff/msmc-tools) to iterate over a list of bam files and defined contigs and generate and output of single VCF and a mask file in bed format per sample ID/contig ID combination.
 
 Requires:
 - bamCaller.py
