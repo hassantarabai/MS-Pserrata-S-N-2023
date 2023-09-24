@@ -21,7 +21,9 @@ Utilize [generate_multihetsep.py](https://github.com/stschiff/msmc-tools) for pa
 ### **msmc2_multi.sh**
 Run [msmc2](https://github.com/stschiff/msmc2) using two different settings to assess the population history interference rubustness and variability under set conditions. The script iterate over bootstrap replicates placed in separate folders and run 5 jobs in parallel with 20 threads set to each job. Results in the output are generated in two separate folders representing each setting used. 
 
-
+## **Comparative functional genomics**
+### **PCoA.R**
+R script that utilize vegan library to calculate Bray-Curtis dissimilarity and perform principal coordinates analysis (PCoA) on the dissimilarity matrix of Pfam and InterProScan hits between compared genomes then vizualize it. 
 
 
 
