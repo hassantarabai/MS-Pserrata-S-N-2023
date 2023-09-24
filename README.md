@@ -1,4 +1,4 @@
-# **MS-P.serrata-S-N-2023**
+# **MS-Pserrata-S-N-2023**
 A reposatory providing scripts used in the analysis of genomic and phylogenetic data included in the publication titled "....".
 
 ## **Phylogenetic dating**
