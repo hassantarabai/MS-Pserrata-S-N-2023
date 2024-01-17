@@ -1,5 +1,5 @@
 # **MS-***Pserrata***-SN-2023**
-A repository providing helper scripts used in the analysis of genomic and phylogenetic data included in the publication titled "**Highly-resolved genomes of two closely related lineages of the louse Polyplax serrata with different host specificities**".
+A repository providing helper scripts used in the analysis of genomic and phylogenetic data included in the publication titled "**Highly-resolved genomes of two closely related lineages of the rodent louse Polyplax serrata with different host specificities**".
 
 ## **Phylogenetic dating**
 ### **ortho_gen.py**
