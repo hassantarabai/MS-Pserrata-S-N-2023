@@ -10,7 +10,7 @@ data2 <_ read.csv("InterProScan.csv", header=TRUE, row.names=1)
 data_t1 <- t(data1)
 data_t2 <- t(data2)
 
-#Calculate Vray-Curtis dissimilarity matrix
+#Calculate Bray-Curtis dissimilarity matrix
 dist_matrix1 <- vegdist(data_t1, method="bray")
 dist_matrix2 <- vegdist(data_t2, method="bray")
 
