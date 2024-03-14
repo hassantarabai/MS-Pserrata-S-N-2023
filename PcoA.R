@@ -14,7 +14,7 @@ data_t2 <- t(data2)
 dist_matrix1 <- vegdist(data_t1, method="bray")
 dist_matrix2 <- vegdist(data_t2, method="bray")
 
-#Performon PCoA analysis
+#Perform PCoA analysis
 pcoa1 <- cmdscale(dist_matrix1, eig=TRUE, k=2)
 pcoa2 <- cmdscale(dist_matrix2, eig=TRUE, k=2)
 
